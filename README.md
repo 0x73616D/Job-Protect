@@ -6,7 +6,7 @@ Automática
 ## ♨️ Función:
 Este script muestra un recuadro al intentar dejar un trabajo, evitando así abandonar un trabajo por error.
 
-## 💠 Dependencias:
+## ⚠️ Dependencias:
 - ASI LOADER
 - SA-MP R1
   
