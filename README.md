@@ -1,6 +1,7 @@
 # ⭐ Job protect.ASI
 
-## ⭕ Activación: Automática
+## ⭕ Activación:
+Automática
 
 ## ♨️ Función:
 Este script muestra un recuadro al intentar dejar un trabajo, evitando así abandonar un trabajo por error.
